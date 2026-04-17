@@ -1,23 +1,24 @@
 # Contributing Guidelines
 
-Terima kasih telah tertarik untuk berkontribusi pada proyek ini!
+Thank you for your interest in contributing!
 
-## Jenis Kontribusi yang Diterima
-Kami menerima:
-- Laporan bug
-- Perbaikan bug
-- Peningkatan dokumentasi
-- Peningkatan fitur
-- Ide-ide baru
+## How to Contribute
+- Report bugs
+- Suggest improvements
+- Improve documentation
+- Submit pull requests
 
-## Cara Berkontribusi
-1. Fork repository ini
-2. Clone ke komputer lokal
-3. Buat branch baru
-4. Lakukan perubahan
-5. Commit perubahan
-6. Push ke GitHub
-7. Buat Pull Request
+## Steps
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your changes
+5. Push to your fork
+6. Submit a pull request
 
-## Catatan
-Semua kontribusi sangat dihargai dan akan ditinjau oleh maintainer.
+## Guidelines
+- Write clear commit messages
+- Keep code clean and readable
+- Test your changes before submitting
+
+All contributions are welcome!
