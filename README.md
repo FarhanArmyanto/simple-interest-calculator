@@ -13,3 +13,4 @@ Update for merge task
 ## Cara Menjalankan
 ```bash
 bash simple-interest.sh
+Update README
