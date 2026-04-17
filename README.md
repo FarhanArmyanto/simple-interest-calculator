@@ -4,7 +4,7 @@ Proyek ini adalah skrip sederhana menggunakan Bash untuk menghitung bunga sederh
 
 Update for merge task
 
-Updated content
+Updated contents
 
 ## Fitur
 - Input pokok (principal)
