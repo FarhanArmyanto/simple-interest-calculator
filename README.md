@@ -4,6 +4,8 @@ Proyek ini adalah skrip sederhana menggunakan Bash untuk menghitung bunga sederh
 
 Update for merge task
 
+Updated content
+
 ## Fitur
 - Input pokok (principal)
 - Input suku bunga (rate)
