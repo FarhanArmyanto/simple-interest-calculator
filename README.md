@@ -15,3 +15,4 @@ Updated contents
 ## Cara Menjalankan
 ```bash
 bash simple-interest.sh
+Update README
